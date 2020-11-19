@@ -1,0 +1,11 @@
+e55ad4d45c689187417362cc97401639 *DESCRIPTION
+058964d079f154db5e5fd2d32ba297c3 *NAMESPACE
+936b0387b0ad3a2c75090062476e1ba7 *R/drsurv.R
+99b61b8635db82c85599532c70fd289d *R/ggsurv.R
+0027ecdc02d21c18dd5b5444cd47f6c9 *build/vignette.rds
+af43707b9095c98b675099cc345ef4e3 *inst/doc/survRatio.R
+cc53ae282a6d7b7ec1e125dc490e107e *inst/doc/survRatio.Rmd
+33f0c6e434be5bd5a5b4a86419a38d6d *inst/doc/survRatio.html
+11c21dda367faa0196ec06c3e45e2a93 *man/drsurv.Rd
+63ec265e66728f027062dcb51c62b092 *man/ggsurv.Rd
+cc53ae282a6d7b7ec1e125dc490e107e *vignettes/survRatio.Rmd
